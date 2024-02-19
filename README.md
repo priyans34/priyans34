@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priyans34
 - 👀 I’m interested in backend heavy full stack web development
 - 🌱 I’m currently learning NestJs
-- 📫 How to reach me priyanshu.singh@contentstack.com
+- 📫 You can reach me at priyanshu.singh@contentstack.com
 
 
 <!---
